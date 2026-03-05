@@ -1,0 +1,4 @@
+com\mycompany\senai\JakartaRestConfiguration.class
+connection\ConnectionFactory.class
+com\mycompany\senai\resources\JakartaEE11Resource.class
+login\Login.class
